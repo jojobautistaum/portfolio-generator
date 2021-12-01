@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojobautistaum/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojobautistaum/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jojobautistaum/portfolio-generator#readme",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
